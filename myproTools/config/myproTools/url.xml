@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<object id="obj_1" name="njust-jw" path="O:/orcaldriver">
+	<url id="ojb_1_url_1" name="webApp" talk="njust webapp 目录">
+		O:/orcaldriver/njust-jw/webapp
+	</url>
+	<url id="ojb_1_url_2" name="jsp" talk="jsp所在目录">
+		O:/orcaldriver/njust-jw/webapp/app/jsp
+	</url>
+	<url id="ojb_1_url_3" name="userJsp" talk="User的jsp 页面所在的目录">
+		O:/orcaldriver/njust-jw/webapp/app/jsp/sys/user/
+	</url>
+</object>

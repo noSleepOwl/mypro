@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="newtools"/>
+	<classpathentry kind="src" path="MyBatis"/>
+	<classpathentry kind="src" path="filecontrol"/>
+	<classpathentry kind="src" path="demo_210"/>
+	<classpathentry kind="src" path="jsoupSrc"/>
+	<classpathentry kind="src" path="poisrc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jgoodies-forms.jar" sourcepath="lib/jgoodies-forms-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/myproTools/lib/jgoodies-forms-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgoodies-common.jar" sourcepath="lib/jgoodies-common-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/myproTools/lib/jgoodies-common-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/log4j-1.2-api-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-guice-3.6.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="lib/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.16-beta2.jar" sourcepath="E:/迅雷下载/poi-src-3.16-beta2-20170202/poi-3.16-beta2"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
