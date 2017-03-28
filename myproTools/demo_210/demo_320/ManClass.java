@@ -69,7 +69,7 @@ public class ManClass {
 		try{
 			model.run();
 		}catch (Exception e) {
-			log("请输入正确的参数");
+			log("请输入正确的参数 的测试版本");
 		}
 	}
 	/**
